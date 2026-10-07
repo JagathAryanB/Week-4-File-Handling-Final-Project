@@ -1,0 +1,23 @@
+=================================================================
+               MONTHLY EXPENSE REPORT: October 2026              
+=================================================================
+Total Expenditure  : $324.74
+Total Transactions : 6
+Average Daily Spend: $10.48
+Highest Expense    : $120.50 (Shopping & Groceries - Weekly supermarket grocery run)
+Lowest Expense     : $15.99 (Entertainment & Leisure - Streaming service subscription)
+-----------------------------------------------------------------
+BUDGET TRACKING:
+  Allocated Budget : $800.00
+  Remaining Budget : $475.26
+  Budget Used      : [######---------]  40.6%
+-----------------------------------------------------------------
+CATEGORY BREAKDOWN:
+  Category                   Amount  Visual Share             
+  ------------------------------------------------------------
+  Shopping & Groceries      $120.50  [######---------]  37.1%
+  Utilities & Bills          $85.00  [####-----------]  26.2%
+  Food & Dining              $58.25  [###------------]  17.9%
+  Transportation             $45.00  [##-------------]  13.9%
+  Entertainment & Leisure     $15.99  [#--------------]   4.9%
+=================================================================

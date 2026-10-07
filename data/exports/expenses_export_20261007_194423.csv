@@ -1,0 +1,7 @@
+id,date,category,amount,description,is_recurring,created_at
+e1a01b2c,2026-10-01,Shopping & Groceries,120.5,Weekly supermarket grocery run,False,2026-10-01T10:15:00
+e2b02c3d,2026-10-02,Transportation,45.0,Monthly transit pass reload,True,2026-10-02T08:30:00
+e3c03d4e,2026-10-03,Food & Dining,32.75,Lunch with teammates,False,2026-10-03T13:00:00
+e4d04e5f,2026-10-04,Utilities & Bills,85.0,High-speed internet bill,True,2026-10-04T09:00:00
+e5e05f6a,2026-10-05,Entertainment & Leisure,15.99,Streaming service subscription,True,2026-10-05T18:45:00
+99253127,2026-10-07,Food & Dining,25.5,Dinner with friends,False,2026-10-07T19:43:02.212032
